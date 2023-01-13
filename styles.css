@@ -1,0 +1,41 @@
+.title {
+    font-size: 40px;
+    font-weight: 600;
+    color: rgb(31, 27, 27);
+}
+
+.title-sub {
+    font-size: 30px;
+    font-weight: 450;
+    color:rgb(31, 27, 27);
+}
+
+#splash {
+
+    text-align: center;
+    font-size: 70px;
+    background-color: rgb(39, 39, 39);
+    color: white;
+
+}
+
+.step-1, .step-2, .step-3 {
+
+    font-size: 20px;
+}
+
+.step-1 {
+        background-color: black;
+        color: white;
+}
+
+.step-2 {
+
+    background-color: white;
+    color: black;
+}
+
+.step-3 {
+    background-color: black;
+    color: white;
+}
